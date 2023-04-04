@@ -1,0 +1,3 @@
+name: Cristian Mausque
+Age: 37
+Favorite Color: Grey
